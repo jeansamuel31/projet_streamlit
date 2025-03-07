@@ -1,6 +1,6 @@
 streamlit
-numpy
-joblib
+numpy==1.23.5
+joblib==1.2.0
 plotly
 matplotlib
 seaborn
